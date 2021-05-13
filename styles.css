@@ -1,0 +1,28 @@
+body {
+    background-color: orange;
+}
+
+.img {
+    text-align: center;
+    background-color: black;
+    margin: 8px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.results {
+    border: solid 3px;
+    display:none;
+}
+
+.fourK {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.descriptions {
+    border: solid black 5px;
+}
